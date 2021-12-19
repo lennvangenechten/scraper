@@ -27,3 +27,9 @@ jobs:
       run: dotnet test --no-restore --verbosity normal
     - name: Publish
       run: dotnet publish
+      
+    - name: Upload WebApp1 Build Artifact
+      uses: actions/upload-artifact@v2
+      with:
+      name: app
+      path: /home/runner/work/Playground/Playground/src/WebApp1/bin/Debug/netcoreapp3.1/publish/
