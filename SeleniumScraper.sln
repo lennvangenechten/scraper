@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SeleniumIndeed", "SeleniumIndeed\SeleniumIndeed.csproj", "{DB7C31B1-C6A8-47D4-8CF1-9D6F74E0EC16}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB7C31B1-C6A8-47D4-8CF1-9D6F74E0EC16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB7C31B1-C6A8-47D4-8CF1-9D6F74E0EC16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB7C31B1-C6A8-47D4-8CF1-9D6F74E0EC16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB7C31B1-C6A8-47D4-8CF1-9D6F74E0EC16}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {06F6E8E7-2568-4879-8D74-C238FD308A19}
+	EndGlobalSection
+EndGlobal
